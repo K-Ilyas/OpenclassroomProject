@@ -1,1 +1,1 @@
-# OpenclassroomProjrct
+# OpenclassroomProject
